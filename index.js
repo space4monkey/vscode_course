@@ -1,3 +1,1 @@
-document.addEventListener('click',(event) =>{
-    event.prenentDefault();
-})
+console.log();
